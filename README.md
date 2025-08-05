@@ -95,10 +95,10 @@ I've contributed to **15+ research papers** and presentations across space explo
 - The Role of Space Tourism in Astronaut Selection
 - Statistical Insights on Analog Astronaut Readiness
 - Inclusive Design: All Astronauts at the Heart of Design
+- Lunar Hospital Using Lava Tubes Concept
 
 **🌍 Earth Observation**
-- Earth Observation for Coastal Resilience in the Caribbean
-- Lunar Hospital Using Lava Tubes Concept
+- Earth Observation for Coastal Resilience in the Caribbean and Latin America
 
 **🧠 AI & Technology**
 - Lexamus Architecture for Human Space Exploration

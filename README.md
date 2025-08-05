@@ -27,6 +27,7 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
 - 🧠 ML projects on exoplanet detection, star clustering, and neural networks
 - 🌍 Advocating for equity, education & resilience through tech
 - 🎙️ Speaking and mentoring in the tech community
+- 🌍 Earth Observation for Coastal Resilience in the Caribbean and Latin America
 
 ---
 

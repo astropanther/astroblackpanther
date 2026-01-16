@@ -14,7 +14,7 @@ Software Engineer | Space Enthusiast | Grace Hopper Scholar | [Forbes 30 Under 3
 
 ---
 
-### 👋 About Me
+### About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="100" alt="Rocket"/>
@@ -23,11 +23,11 @@ Software Engineer | Space Enthusiast | Grace Hopper Scholar | [Forbes 30 Under 3
 I'm a passionate Software Engineer with a love for space exploration, data science, and community impact. Formerly at Intel, I built dashboards and Python automations to accelerate design & validation with ML and generative AI. I'm also a Forbes 30 Under 30 honoree in Tech & Innovation!
 
 **Current Focus:**
-- 🛰️ Leading space research on astronaut readiness and Earth observation
-- 🧠 ML projects on exoplanet detection, star clustering, and neural networks
-- 🌍 Advocating for equity, education & resilience through tech
-- 🎙️ Speaking and mentoring in the tech community
-- 🌍 Earth Observation for Coastal Resilience in the Caribbean and Latin America
+- Leading space research on astronaut readiness and Earth observation
+- ML projects on exoplanet detection, star clustering, and neural networks
+- Advocating for equity, education & resilience through tech
+- Speaking and mentoring in the tech community
+- Earth Observation for Coastal Resilience in the Caribbean and Latin America
 
 ---
 
@@ -45,14 +45,14 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
   <img src="https://img.shields.io/badge/C%2B%2B-FF0000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/R-FF0000?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   
-  <h4>🌐 Frontend & Backend</h4>
+  <h4> Frontend & Backend</h4>
   <img src="https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-FF0000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/.NET-FF0000?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
   
-  <h4>☁️ Cloud & Databases</h4>
+  <h4> Cloud & Databases</h4>
   <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-FF0000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Google_Cloud-FF0000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
@@ -60,13 +60,13 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
   <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   
-  <h4>🧠 Data Science & ML</h4>
+  <h4> Data Science & ML</h4>
   <img src="https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-FF0000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Power_BI-FF0000?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
   
-  <h4>⚙️ Tools & Platforms</h4>
+  <h4> Tools & Platforms</h4>
   <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitLab-FF0000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
@@ -77,7 +77,7 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
 
 ---
 
-### 📚 Research & Publications
+###  Research & Publications
 
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="120" alt="Research"/>
@@ -87,21 +87,21 @@ I've contributed to **15+ research papers** and presentations across space explo
 
 <div align="left">
 
-**🚀 Space Exploration**
+** Space Exploration**
 - Mercury Sample Return Mission Design (Lockheed Martin collaboration)
 - Neuromorphic AI for Autonomous Spacecraft
 - AstroGate: Post-ISS Commercial Space Station Design
 
-**👨‍🚀 Human Spaceflight**
+** Human Spaceflight**
 - The Role of Space Tourism in Astronaut Selection
 - Statistical Insights on Analog Astronaut Readiness
 - Inclusive Design: All Astronauts at the Heart of Design
 - Lunar Hospital Using Lava Tubes Concept
 
-**🌍 Earth Observation**
+** Earth Observation**
 - Earth Observation for Coastal Resilience in the Caribbean and Latin America
 
-**🧠 AI & Technology**
+** AI & Technology**
 - Lexamus Architecture for Human Space Exploration
 - Real-time Decision-Making in Deep Space Missions
 

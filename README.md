@@ -31,7 +31,7 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="150" alt="Tech Stack"/>
@@ -87,21 +87,21 @@ I've contributed to **15+ research papers** and presentations across space explo
 
 <div align="left">
 
-** Space Exploration**
+**Space Exploration**
 - Mercury Sample Return Mission Design (Lockheed Martin collaboration)
 - Neuromorphic AI for Autonomous Spacecraft
 - AstroGate: Post-ISS Commercial Space Station Design
 
-** Human Spaceflight**
+**Human Spaceflight**
 - The Role of Space Tourism in Astronaut Selection
 - Statistical Insights on Analog Astronaut Readiness
 - Inclusive Design: All Astronauts at the Heart of Design
 - Lunar Hospital Using Lava Tubes Concept
 
-** Earth Observation**
+**Earth Observation**
 - Earth Observation for Coastal Resilience in the Caribbean and Latin America
 
-** AI & Technology**
+**AI & Technology**
 - Lexamus Architecture for Human Space Exploration
 - Real-time Decision-Making in Deep Space Missions
 

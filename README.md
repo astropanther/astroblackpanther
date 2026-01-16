@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hello World! I'm Roxy
+# Hello World! I'm Roxy
 
 </div>
 
@@ -36,7 +36,7 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="150" alt="Tech Stack"/>
   
-  <h4>🚀 Languages & Frameworks</h4>
+  <h4> Languages & Frameworks</h4>
   <img src="https://img.shields.io/badge/Python-FF0000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-FF0000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -111,7 +111,7 @@ I've contributed to **15+ research papers** and presentations across space explo
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="100" alt="Analytics"/>
@@ -125,7 +125,7 @@ I've contributed to **15+ research papers** and presentations across space explo
 
 ---
 
-### 🌐 Connect With Me
+### Connect With Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e0ca-6dc7-4f8e-8c8e-0c8c8c8c8c8c.gif" width="80" alt="Connect"/>

@@ -47,7 +47,6 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
   
   <h4> Frontend & Backend</h4>
   <img src="https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
   <img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-FF0000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/.NET-FF0000?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
@@ -55,10 +54,8 @@ I'm a passionate Software Engineer with a love for space exploration, data scien
   <h4> Cloud & Databases</h4>
   <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-FF0000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-FF0000?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/MongoDB-FF0000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FF0000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
   
   <h4> Data Science & ML</h4>
   <img src="https://img.shields.io/badge/Pandas-FF0000?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>

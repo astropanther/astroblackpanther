@@ -133,9 +133,6 @@ I've contributed to **15+ research papers** and presentations across space explo
   <a href="https://linkedin.com/in/roxy-williams">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/astro__panther">
-    <img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://github.com/astroblackpanther">
     <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
